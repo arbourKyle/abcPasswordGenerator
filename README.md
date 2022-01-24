@@ -1,7 +1,10 @@
-This readme helps you navigate the page that has been created
+# abcPasswordGenerator
 
-Upon visiting the page I enourage you to click the big red button and follow the instructions
+abcPasswordGenerator is a simple program that generates a customized password for you with any type or number of characters you like.
 
-If the result is to your satisfaction you can use your mouse to select the password, right click, and copy it
+## Installation
+## Usage
 
-Then you can use it in future endeavours logging into various internet login locations
+Vis the page at https://arbourkyle.github.io/abcPasswordGenerator/
+
+![](/assets/img/passGenScreenshot.jpg)
