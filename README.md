@@ -5,6 +5,6 @@ abcPasswordGenerator is a simple program that generates a customized password fo
 ## Installation
 ## Usage
 
-Vis the page at https://arbourkyle.github.io/abcPasswordGenerator/
+Visit the page at https://arbourkyle.github.io/abcPasswordGenerator/
 
 ![](/assets/img/passGenScreenshot.jpg)
